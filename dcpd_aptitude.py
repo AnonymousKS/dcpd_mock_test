@@ -34,7 +34,7 @@ def apti_main(username, password):
         time.sleep(1)
 
         # click on evening cucat
-        driver.find_element(By.XPATH, '//*[@id="3713"]/li[9]/a').click()
+        driver.find_element(By.XPATH, '//*[@id="3713"]/li[8]/a').click()
         time.sleep(1)
 
         # click on mock teet

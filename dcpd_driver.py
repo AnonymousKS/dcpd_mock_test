@@ -8,9 +8,9 @@ username = ''
 password = ''
 
 apti_main(username, password)
-time.sleep(3)
+time.sleep(1)
 
 verbal_main(username, password)
-time.sleep(3)
+time.sleep(1)
 
 logical_main(username, password)
